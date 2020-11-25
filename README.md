@@ -1,2 +1,2 @@
-# Php
-Online Food Ordering
+
+#Online Food Ordering using PHP and MYSQL
